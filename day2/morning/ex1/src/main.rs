@@ -1,6 +1,3 @@
-// TODO: remove this when you're done with your implementation.
-#![allow(unused_variables, dead_code)]
-
 pub struct User {
     name: String,
     age: u32,
